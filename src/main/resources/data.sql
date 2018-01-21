@@ -8,8 +8,8 @@ insert into users(user_id, email, password, name, role) values(1,'admin@admin.co
 insert into users(user_id, email, password, name, role) values(2,'marwensaidi1@gmail.com','marwen','Marwen Saidi','ROLE_USER');
 
 insert into tags(tag_id, name, description) values
-(1,'offre 1','cherche attaquant pour Nice),
-(2,'offre milieu de terrain','pour OM'),
+(1,'offre 1','cherche attaquant pour Nice'),
+(2,'offre milieu de terrain','pour OM')
 ;
 
 insert into posts(post_id, title, content, created_on, updated_on) values(1,'recherche attaquant de préférance gauché ...', '2017-01-20', null);
