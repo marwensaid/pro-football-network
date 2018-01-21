@@ -11,9 +11,6 @@ import org.springframework.mail.SimpleMailMessage;
 import org.springframework.mail.javamail.JavaMailSender;
 import org.springframework.stereotype.Component;
 
-/**
- * Created by marwen on 21/12/15.
- */
 
 @Component
 public class EmailService implements ApplicationEventPublisherAware,ApplicationListener<EmailEvent>{

@@ -14,9 +14,6 @@ import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-/**
- * Created by marwen on 21/12/15.
- */
 
 @Service
 @Transactional

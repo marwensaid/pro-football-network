@@ -4,7 +4,7 @@ import com.chaos.entities.Comment;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
- * Created by marwen on 22/12/15.
+ * Created by marwen
  */
 public interface CommentRepository extends JpaRepository<Comment, Integer> {
 }

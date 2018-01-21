@@ -6,9 +6,7 @@ import org.springframework.security.core.userdetails.UserDetails;
 
 import java.util.Collection;
 
-/**
- * Created by marwen on 21/12/15.
- */
+
 public class SecurityUser implements UserDetails {
 
     private static final long serialVersionUID = 1L;

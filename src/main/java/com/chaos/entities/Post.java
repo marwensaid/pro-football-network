@@ -1,7 +1,7 @@
 package com.chaos.entities;
 
 /**
- * Created by marwen on 20/12/15.
+ * Created by marwen .
  */
 
 import javax.persistence.*;

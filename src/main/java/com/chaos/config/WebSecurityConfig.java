@@ -16,7 +16,7 @@ import org.springframework.security.config.annotation.web.configuration.WebSecur
 import org.springframework.security.core.userdetails.UserDetailsService;
 
 /**
- * Created by marwen on 25/12/15.
+ * Created by marwen .
  */
 
 @Configuration
@@ -29,9 +29,9 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
     @Autowired
     private HttpAuthenticationEntryPoint httpAuthenticationEntryPoint;
     @Autowired
-    private AuthenticationSuccessHandlerCCC authenticationSuccessHandler;
+    private AuthenticationSuccessHandler authenticationSuccessHandler;
     @Autowired
-    private AuthenticationFailureHandlerCCC authenticationFailureHandler;
+    private AuthenticationFailureHandler authenticationFailureHandler;
     @Autowired
     private HttpLogoutSuccessHandler logoutSuccessHandler;
 

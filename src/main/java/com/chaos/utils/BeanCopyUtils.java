@@ -5,7 +5,7 @@ import com.chaos.entities.Post;
 import com.chaos.entities.User;
 
 /**
- * Created by marwen on 20/12/15.
+ * Created by marwen on 20/01/17.
  */
 public class BeanCopyUtils {
 

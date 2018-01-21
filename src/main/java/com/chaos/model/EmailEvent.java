@@ -4,7 +4,7 @@ import org.springframework.context.ApplicationEvent;
 import sun.applet.AppletEvent;
 
 /**
- * Created by marwen on 20/12/15.
+ * Created by marwen
  */
 public class EmailEvent extends ApplicationEvent {
 

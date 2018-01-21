@@ -20,9 +20,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/**
- * Created by marwen on 21/12/15.
- */
+
 
 @RestController
 @RequestMapping(value="/api")

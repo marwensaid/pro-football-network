@@ -4,7 +4,7 @@ import com.chaos.entities.Post;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /**
- * Created by marwen on 22/12/15.
+ * Created by marwen.
  */
 public interface PostRepository extends JpaRepository<Post, Integer> {
 }

@@ -5,7 +5,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * Created by marwen on 20/12/15.
+ * Created by marwen.
  */
 @Entity
 @Table(name = "COMMENTS")

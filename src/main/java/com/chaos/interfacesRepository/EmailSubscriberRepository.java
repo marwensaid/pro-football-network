@@ -6,7 +6,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.List;
 
 /**
- * Created by marwen on 21/12/15.
+ * Created by marwen .
  */
 public interface EmailSubscriberRepository extends JpaRepository<EmailSubscriber, Integer> {
 

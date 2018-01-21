@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * Created by marwen on 21/12/15.
+ * Created by marwen.
  */
 public class CommentsResponseDTO implements Serializable {
 

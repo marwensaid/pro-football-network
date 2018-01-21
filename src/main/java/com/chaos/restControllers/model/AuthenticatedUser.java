@@ -4,9 +4,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by marwen on 21/12/15.
- */
+
 
 @XmlRootElement
 public class AuthenticatedUser {

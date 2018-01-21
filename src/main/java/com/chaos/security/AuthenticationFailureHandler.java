@@ -10,12 +10,10 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-/**
- * Created by marwen on 25/12/15.
- */
+
 
 @Component
-public class AuthenticationFailureHandlerCCC implements AuthenticationFailureHandler {
+public class AuthenticationFailureHandler implements org.springframework.security.web.authentication.AuthenticationFailureHandler {
     @Override
     public void onAuthenticationFailure(HttpServletRequest httpServletRequest, HttpServletResponse httpServletResponse, AuthenticationException e) throws IOException, ServletException {
         httpServletResponse.setStatus(HttpServletResponse.SC_UNAUTHORIZED);

@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by marwen on 21/12/15.
+ * Created by marwen
  */
 public class PostsResponseDTO {
 
