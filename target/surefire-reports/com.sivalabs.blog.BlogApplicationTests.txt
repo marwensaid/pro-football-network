@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sivalabs.blog.BlogApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.451 sec - in com.sivalabs.blog.BlogApplicationTests
