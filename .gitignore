@@ -2,3 +2,5 @@
 
 .idea
 *.iml
+blog.log
+target
